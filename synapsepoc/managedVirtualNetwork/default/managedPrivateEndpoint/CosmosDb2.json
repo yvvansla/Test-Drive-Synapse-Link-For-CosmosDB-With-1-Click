@@ -1,0 +1,7 @@
+{
+	"name": "CosmosDb2",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/35d020bc-dd8f-4d30-ad08-a5d8252183e5/resourceGroups/demolab/providers/Microsoft.DocumentDB/databaseAccounts/azureuser",
+		"groupId": "Analytical"
+	}
+}
